@@ -19,19 +19,7 @@
 
 ### Local Development
 
-To run this website locally on your machine:
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/lukerice22/Itinerarymaker.git](https://github.com/lukerice22/Itinerarymaker.git)
-    ```
-2.  **Open the project folder**
-    ```bash
-    cd Itinerarymaker
-    ```
-3.  **Launch the site**
-    * If it's a static site, simply open `index.html` in your browser.
-    * If using a local server (like Live Server in VS Code), click "Go Live."
+To run this website visit https://itinerarymaker1.vercel.app/
 
 ## 🚧 Upcoming Improvements
 
@@ -45,4 +33,4 @@ To run this website locally on your machine:
 Suggestions and improvements are always welcome! Feel free to fork the repo and submit a pull request.
 
 ---
-Created with ❤️ by [lukerice22](https://github.com/lukerice22)
+Created by [lukerice22](https://github.com/lukerice22)
